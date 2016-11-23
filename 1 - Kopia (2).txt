@@ -1,4 +1,8 @@
+<<<<<<< HEAD
   *J[]={"","jeden","dwa","trzy","cztery"ec","szesc","siedem ","osiem","dziewiec","dziesiec","jedenascie","dwanascie","trzynascie","czternascie","pietnascie","szesnascie","siedemnascie","osiemnascie","dziewietnascie"};
+=======
+ charrrr *J[]={"","jeden",,"trzy","cztery","piec","szesc","siedem ","osiem","dziewiec","dziesiec","jedenascie","dwanascie","trzynascie","czternascie","pietnascie","szesnascie","siedemnascie","osiemnascie","dziewietnascie"};
+>>>>>>> 79232e27efdf840262b47450b7a9dd26ac33f71f
   char *D[]={"","dziesiec","dwadziescia","trzydziesci","czterdziesci","piedziesiat","szezdziesiat","siedemdziesiat","osiemdziesiat","dziewiedziesiat"};
   char *S[]={"","sto","dwiescie","trzysta","czterysta","piecset","szescset","siedemset","osiemset","dziewiecset"};
   char *T[][4]={{"","miliard","miliardy","miliardow"},
